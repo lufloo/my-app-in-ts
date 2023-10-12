@@ -1,3 +1,4 @@
-console.log('hola mundo');
-console.log('holaaa');
-console.log('holaaaaaa');
+console.log("Good looking in your hacking space!");
+
+const HelloWorld: string = "Hello World";
+export default HelloWorld;
